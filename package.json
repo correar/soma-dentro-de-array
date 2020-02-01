@@ -1,0 +1,12 @@
+{
+  "name": "soma-dentro-de-array",
+  "version": "1.0.0",
+  "description": "Verifica se a soma de duas posições do array existe ou não",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
